@@ -725,7 +725,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 connections.push(connection);
                 updateConnection(connection);
             }
-        });
+        })
     }
 
     // Export function
